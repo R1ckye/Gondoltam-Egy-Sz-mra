@@ -12,6 +12,6 @@ A játék 10-es szintre beállítva
 ```objective-c
 gondoltam -L medium
 ```
-A játék medium (2-es) szintre beállítva, a másik lehetőség a hard
-medium = 2, hard = 3
+A játék medium (2-es) szintre beállítva, a másik lehetőség a hard, ami a 3-as szint
+
 Az alapértelmezett szint az 1-es
